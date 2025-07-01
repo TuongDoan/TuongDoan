@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuong Doan</h1>
-<h3 align="center">A passionate Data Analyst from Vietnam</h3>
+<h3 align="center">A passionate AI dude from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuongdoan&label=Profile%20views&color=0e75b6&style=flat" alt="tuongdoan" /> </p>
 
